@@ -85,6 +85,15 @@
       ]
     },
     {
+   "name":"OLX-BR",
+   "url":"https://admin.bughunt.com.br/program/detail?60ca003869707962894a5b33",
+   "bounty": true,
+   "swag": false,
+   "domains":[
+      "olx.com.br"
+   ]
+}, 
+  {
       "name": "Adafruit",
       "url": "https://www.adafruit.com/reportingsecurityissues",
       "bounty": true,
